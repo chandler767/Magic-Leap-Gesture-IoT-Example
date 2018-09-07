@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -42,7 +42,6 @@ public class GestureScript : MonoBehaviour {
         offGesture = GameObject.Find("offGesture").GetComponent<Image>();
         changeText = GameObject.Find("ChangeText").GetComponent<Text>();
         changeGesture = GameObject.Find("changeGesture").GetComponent<Image>();
-
 
         MLHands.Start(); // Start the hand tracking.
         gestures = new MLHandKeyPose[3]; //Assign the gestures we will look for.

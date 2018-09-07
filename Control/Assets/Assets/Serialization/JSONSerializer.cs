@@ -1,6 +1,6 @@
 #if((!USE_JSONFX_UNITY_IOS) && (!USE_MiniJSON))
-#define USE_JSONFX_UNITY_IOS
-//#define USE_MiniJSON
+//#define USE_JSONFX_UNITY_IOS
+#define USE_MiniJSON
 #endif
 
 #if (USE_JSONFX_UNITY_IOS)

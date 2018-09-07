@@ -1,0 +1,319 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "66e22780222ed1c277ee431662fca848166ea7b0",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 5928416,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "2cc2cc200030676eb5aad80c3a25bfbbb597693e",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 66413504,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f4fb5fafcd30dea4dd88b6ac35d3366411f4bfa0",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/libil2cpp.so-76d01cba478825ca",
+   "xfrm_size": 66414262
+  },
+  {
+   "compression": 8,
+   "hash": "f40eb17b43113196d3596610f2e2ef67448f5d1a",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "ed19c075c8e38dde3841888614364d15cc7538a0",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "8c442df867d48e5c05369ecf7257288e2e2ee6dd",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728952,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d6d34b7874e807dc64892e0f602b20d3d83f20ed",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/UnityMagicLeap.so-08901ce66a9c0627",
+   "xfrm_size": 729710
+  },
+  {
+   "compression": 8,
+   "hash": "dd16fc5a22220fad38161f73afa74926cb2eda96",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3d2724daa13b889a742a9620c5db3a2a63830c60",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/libml_camera_plugin.so-08901ce66a9c0627",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "affee7f7610bd12f2b914f61c1b34ca32a72e424",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ae39cd0f67283786100ab609831d9ce165df8068",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/libml_mediaplayer_plugin.so-08901ce66a9c0627",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "991bb8f7486d040646093200316c75e9bd8b8172",
+   "pkgpath": "Data/Resources/System.dll-resources.dat",
+   "size": 54703,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Resources/System.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "5c08950d8b5f894cbcbdacb57a5e5ccc33a80b42",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 372023,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc8d956e48e76474f190e96cb3b127735edb7bfc",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308252,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "7d88774d6f4ab6f00d755b641e3ef203a306d7fe",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 287508,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
+   "pkgpath": "Data/boot.config",
+   "size": 55,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "6bb63e59c9d6c8dac5890aef058374d4c9c4752b",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 34520,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "085f2f1267afd5736c29105ecad1fd11096a3877",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 48796,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "96ada27d63cc0c76a7550b65a7c39f7d74fd67c5",
+   "pkgpath": "Data/globalgamemanagers.assets.resS",
+   "size": 917504,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/globalgamemanagers.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d7120882c762560e6c861b112f57d31d101ff511",
+   "pkgpath": "Data/level0",
+   "size": 10232,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "3f76cdd2a6ea158ae5e5692f949bca63f863c758",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0fed32099e50195fb7d2f4ece296c11c524ab695",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 79372,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "7e9b1af6348d569bd3dad178bf5c7ac5d5b4f4d2",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 791892,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "efd5ca1ce617602040a9e123dbfba39e01b7e2f2",
+   "pkgpath": "Icon/Model/.DS_Store",
+   "size": 6148,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Model/.DS_Store"
+  },
+  {
+   "compression": 8,
+   "hash": "01c7e90361c424f7ca3d9530630761f3a8b8ccc9",
+   "pkgpath": "Icon/Model/Model_UFO.fbx",
+   "size": 1276330,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Model/Model_UFO.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "55842c477d7ee63a403fae2d0704b27eb4882466",
+   "pkgpath": "Icon/Model/Model_UFO.kmat",
+   "size": 419,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Model/Model_UFO.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "818cf3fd612b663b2a2d3cd979ddbe413d1e6ed6",
+   "pkgpath": "Icon/Model/Model_UFO_Albedo.png",
+   "size": 733,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Model/Model_UFO_Albedo.png"
+  },
+  {
+   "compression": 8,
+   "hash": "ccea018acd246a4056b49ae812371627b4ebb0ea",
+   "pkgpath": "Icon/Model/Model_UFO_Albedo_Ring.png",
+   "size": 177,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Model/Model_UFO_Albedo_Ring.png"
+  },
+  {
+   "compression": 8,
+   "hash": "8311a5036128d25b92db2c879dcaa303dfc4d744",
+   "pkgpath": "Icon/Portal/InsidePortal_SkySphere.fbx",
+   "size": 172016,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Portal/InsidePortal_SkySphere.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "71b01901f47ebedf3222a60b11b1c5b74da1ba34",
+   "pkgpath": "Icon/Portal/InsidePortal_SkySphere.kmat",
+   "size": 250,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Portal/InsidePortal_SkySphere.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "e28f2ee53a901ea92b053cdb5cdcafe080cd634d",
+   "pkgpath": "Icon/Portal/InsidePortal_SkySphere.png",
+   "size": 11584,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Icon/Portal/InsidePortal_SkySphere.png"
+  },
+  {
+   "compression": 8,
+   "hash": "f4b680f8849d213bee8939f2b0cd869f7bc9a7e2",
+   "pkgpath": "bin/Player.elf",
+   "size": 22055960,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ec6445d0f27c817b7b596fb1593c48e73ab6d139",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/Player.elf-c2f50189a1301723",
+   "xfrm_size": 22056718
+  },
+  {
+   "compression": 8,
+   "hash": "a1121ad0c1a48f5cad0ae2dbd0a89b6f0495027f",
+   "pkgpath": "manifest.xml",
+   "size": 644,
+   "src": "/Users/chandler/Desktop/PubNub Controller/Control/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "490e62e145c286a04c9f2764a7d23ec24d318c68",
+     "developer_id": "c32cdf31-4f9d-4030-8e93-80821d468725"
+    }
+   },
+   "xfrm_hash": "39ee0689f903c8a811555aab8021178159a5e464",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/manifest.xml-c2f50189a1301723",
+   "xfrm_size": 657
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/chandler/MagicLeap/mlsdk/v0.16.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b4d8cdd91e069b44ad40460783764efe922d2dbd",
+   "xfrm_path": "/Users/chandler/Desktop/PubNub Controller/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.pcontrolname-307a9cb5a10458dc/libc++_shared.so-211c1954ebbc81f0",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/chandler/Desktop/PubNub Controller/privatekey/pubnubcontroller.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

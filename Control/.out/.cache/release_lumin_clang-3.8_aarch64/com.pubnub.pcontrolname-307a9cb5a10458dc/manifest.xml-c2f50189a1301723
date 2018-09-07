@@ -1,0 +1,11 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="c32cdf31-4f9d-4030-8e93-80821d468725" ml:package="com.pubnub.pcontrolname" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="Control">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <uses-privilege ml:name="Internet" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Control">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

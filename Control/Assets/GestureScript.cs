@@ -8,8 +8,6 @@ using PubNubAPI;
 
 public class GestureScript : MonoBehaviour {
 
-    public Text instuctText;
-    public float instuctTextTimeLeft  = 1.0f; // Transition color on scene load.
     public Text onText;
     public Image onGesture;
     public float onTimeLeft;
@@ -35,7 +33,6 @@ public class GestureScript : MonoBehaviour {
         pnConfiguration.Secure = true;
         pubnub = new PubNub(pnConfiguration);
 
-        instuctText = GameObject.Find("InstuctText").GetComponent<Text>();
         onText = GameObject.Find("OnText").GetComponent<Text>();
         onGesture = GameObject.Find("onGesture").GetComponent<Image>();
         offText = GameObject.Find("OffText").GetComponent<Text>();
@@ -129,10 +126,6 @@ public class GestureScript : MonoBehaviour {
             sendTimeController -= Time.deltaTime; // Update the timer.
         }
 
-        if (instuctTextTimeLeft > Time.deltaTime) {
-            instuctText.color = Color.Lerp(instuctText.color, Color.white, Time.deltaTime / instuctTextTimeLeft); // Calculate interpolated color.
-            instuctTextTimeLeft -= Time.deltaTime; // Update the timer.
-        }
         if (onTimeLeft > Time.deltaTime) {
             onText.color = Color.Lerp(onText.color, Color.white, Time.deltaTime / onTimeLeft); // Calculate interpolated color.
             onGesture.color = Color.Lerp(onGesture.color, Color.white, Time.deltaTime / onTimeLeft); // Calculate interpolated color.

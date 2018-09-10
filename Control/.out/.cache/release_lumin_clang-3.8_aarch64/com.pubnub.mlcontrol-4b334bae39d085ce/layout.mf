@@ -1,0 +1,38 @@
+[
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/UnityEngine.SpatialTracking.dll",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+ },
+ {
+  "dest": "bin/UnityEngine.TestRunner.dll",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/libml_camera_plugin.so",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so"
+ },
+ {
+  "dest": "bin/libml_mediaplayer_plugin.so",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Player.elf"
+ },
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "/Users/chandler/MagicLeap/mlsdk/v0.16.0/lumin/stl/libc++/lib/libc++_shared.so"
+ }
+]

@@ -11,6 +11,7 @@ Control/control.mpk
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+.cache/
 
 # Visual Studio cache directory
 .vs/

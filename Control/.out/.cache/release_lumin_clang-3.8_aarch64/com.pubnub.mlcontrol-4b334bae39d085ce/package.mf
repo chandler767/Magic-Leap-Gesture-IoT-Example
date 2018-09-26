@@ -2,16 +2,695 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "7bc320684b31f96db86b24aaf5febe526f1d9226",
+   "hash": "45cdf24ed559a5a7c13d3617580abe26e8600072",
+   "pkgpath": "Data/02c0a84bd64c6f044954d8bde9b46ec8",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/02c0a84bd64c6f044954d8bde9b46ec8"
+  },
+  {
+   "compression": 8,
+   "hash": "19b0aee8b81c3f11af85b347aa26bfe2dc7c4fae",
+   "pkgpath": "Data/02c0a84bd64c6f044954d8bde9b46ec8.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/02c0a84bd64c6f044954d8bde9b46ec8.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "602c438a5a7348be1426fa36ca67b0dc3a2f4798",
+   "pkgpath": "Data/09f6c01f98a3ded4daf1afc52a3c260f",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/09f6c01f98a3ded4daf1afc52a3c260f"
+  },
+  {
+   "compression": 8,
+   "hash": "5db0c492b8380607097c331538e392e76e1b3c9c",
+   "pkgpath": "Data/09f6c01f98a3ded4daf1afc52a3c260f.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/09f6c01f98a3ded4daf1afc52a3c260f.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "fdbfbf388f498bc92f07ea4c4bab29865fc5b77f",
+   "pkgpath": "Data/0a79c155edf9b2d429d4736abee5acdb",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/0a79c155edf9b2d429d4736abee5acdb"
+  },
+  {
+   "compression": 8,
+   "hash": "90a2913bbe0aa2e444f4887f389194fe4004eeea",
+   "pkgpath": "Data/0a79c155edf9b2d429d4736abee5acdb.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/0a79c155edf9b2d429d4736abee5acdb.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5b0e9106b7c80f3a65200c1bac20d91ec8eadc6f",
+   "pkgpath": "Data/0a999e641c982a14d9c68dfd53a98afc",
+   "size": 4116,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/0a999e641c982a14d9c68dfd53a98afc"
+  },
+  {
+   "compression": 8,
+   "hash": "fcd0582eb1aaef8254028ec4ed9652031f8200ad",
+   "pkgpath": "Data/0fa10b21877c61b4db40ba5708815f81",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/0fa10b21877c61b4db40ba5708815f81"
+  },
+  {
+   "compression": 8,
+   "hash": "a0d2470f8e663ad44cd5b43db3f8fd1986bb2089",
+   "pkgpath": "Data/0fa10b21877c61b4db40ba5708815f81.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/0fa10b21877c61b4db40ba5708815f81.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1f21eef47c57efc1524c61088045c3c3795fb906",
+   "pkgpath": "Data/11852d1b1b034654bb03e7c8fda28fbf",
+   "size": 13628,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/11852d1b1b034654bb03e7c8fda28fbf"
+  },
+  {
+   "compression": 8,
+   "hash": "9df467282760d1bc9db9561343b6c3be298d3953",
+   "pkgpath": "Data/119591e0bb084e848835d237546b3882",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/119591e0bb084e848835d237546b3882"
+  },
+  {
+   "compression": 8,
+   "hash": "da3e1f76f87a627ace3f94501326fd9facd96ab9",
+   "pkgpath": "Data/119591e0bb084e848835d237546b3882.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/119591e0bb084e848835d237546b3882.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9f1512e3f1de8ad9e325570339c709024a5ad92d",
+   "pkgpath": "Data/1378a33cdd085d64c9da863d2484ff21",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/1378a33cdd085d64c9da863d2484ff21"
+  },
+  {
+   "compression": 8,
+   "hash": "25aff0c80637a7168d2b410259fbbe7f900f9da1",
+   "pkgpath": "Data/1378a33cdd085d64c9da863d2484ff21.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/1378a33cdd085d64c9da863d2484ff21.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "05758603742f92bb421cfad8e4e586a9bb3fb501",
+   "pkgpath": "Data/153f7d6dfbe713d4884df0f1e243ba92",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/153f7d6dfbe713d4884df0f1e243ba92"
+  },
+  {
+   "compression": 8,
+   "hash": "c4ba4c014c200b138413c93345ac3ecc01588ad8",
+   "pkgpath": "Data/153f7d6dfbe713d4884df0f1e243ba92.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/153f7d6dfbe713d4884df0f1e243ba92.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "61216ac2a59f15f0387c6766e2d2e551e3bccdbf",
+   "pkgpath": "Data/15e54aa23a938444389469d53765d741",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/15e54aa23a938444389469d53765d741"
+  },
+  {
+   "compression": 8,
+   "hash": "ad0c81cda4a5ec09baa9ef9bcc5cf26bea9c9ae8",
+   "pkgpath": "Data/15e54aa23a938444389469d53765d741.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/15e54aa23a938444389469d53765d741.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d6f4c995fcc2a35489221ad471c796ddc0de8da0",
+   "pkgpath": "Data/1a9ce5640cde5934aae0022f020464a6",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/1a9ce5640cde5934aae0022f020464a6"
+  },
+  {
+   "compression": 8,
+   "hash": "ee3383b7436fabea5f37308d46ef4c7b60634b2d",
+   "pkgpath": "Data/1a9ce5640cde5934aae0022f020464a6.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/1a9ce5640cde5934aae0022f020464a6.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1141099212746efb4e3af62d7c914c99785683fe",
+   "pkgpath": "Data/1d6958e30e40a254dbe5a54c573eeb3c",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/1d6958e30e40a254dbe5a54c573eeb3c"
+  },
+  {
+   "compression": 8,
+   "hash": "d5df261d35dc50ff728a1f40c1d1c636c27f85d2",
+   "pkgpath": "Data/1d6958e30e40a254dbe5a54c573eeb3c.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/1d6958e30e40a254dbe5a54c573eeb3c.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "3d321a2c7de931208bc4631e328c4945551ed648",
+   "pkgpath": "Data/241b7a6a033e9dc4da9d2595cef7f477",
+   "size": 4108,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/241b7a6a033e9dc4da9d2595cef7f477"
+  },
+  {
+   "compression": 8,
+   "hash": "b06eb152ac7050cc4195a7ce778efc53b68a924e",
+   "pkgpath": "Data/26a62c2e30be83547bdfa9fe837165e3",
+   "size": 4116,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/26a62c2e30be83547bdfa9fe837165e3"
+  },
+  {
+   "compression": 8,
+   "hash": "7200a9262ae8a39c4afc6458a42ecb6331a5062b",
+   "pkgpath": "Data/291f0d5b6045f4646847c59b4ce13ac5",
+   "size": 13708,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/291f0d5b6045f4646847c59b4ce13ac5"
+  },
+  {
+   "compression": 8,
+   "hash": "2629c1492051b2e67d77bae80a69ceeb786c44c3",
+   "pkgpath": "Data/2a72fc91cbae3cc4686a6143e8517993",
+   "size": 9192,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/2a72fc91cbae3cc4686a6143e8517993"
+  },
+  {
+   "compression": 8,
+   "hash": "c2b6ba64a0ab99b28b4e9f90383fd2054ec3a5ba",
+   "pkgpath": "Data/2ee161d8945169243b5698fec114e1b7",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/2ee161d8945169243b5698fec114e1b7"
+  },
+  {
+   "compression": 8,
+   "hash": "72cf887b75024677977028b64d40c28cc5b087fe",
+   "pkgpath": "Data/2ee161d8945169243b5698fec114e1b7.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/2ee161d8945169243b5698fec114e1b7.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0d2c733371ff262bc9f3b08afe7a1b441063b683",
+   "pkgpath": "Data/319b8e66db3faa4438cf6982e9c89b2f",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/319b8e66db3faa4438cf6982e9c89b2f"
+  },
+  {
+   "compression": 8,
+   "hash": "fedc770869c2e2ef2672237997a8d8622c85fe05",
+   "pkgpath": "Data/319b8e66db3faa4438cf6982e9c89b2f.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/319b8e66db3faa4438cf6982e9c89b2f.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "7a6ae59b62d18477e9cc4154523b53c7fa12367b",
+   "pkgpath": "Data/32c6a5f7143b86c44bd5cdee2ff3f8ad",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/32c6a5f7143b86c44bd5cdee2ff3f8ad"
+  },
+  {
+   "compression": 8,
+   "hash": "7e4d735e8ad1c6ffc737b2d15a9d37ec5b88656d",
+   "pkgpath": "Data/32c6a5f7143b86c44bd5cdee2ff3f8ad.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/32c6a5f7143b86c44bd5cdee2ff3f8ad.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5995985b16f393c038112e98e1f9850c2f027a42",
+   "pkgpath": "Data/351e95d0e20a54849bd4ce5f9b498934",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/351e95d0e20a54849bd4ce5f9b498934"
+  },
+  {
+   "compression": 8,
+   "hash": "15f0be52adc9d5e11a8107be366ee0bd1c39b68e",
+   "pkgpath": "Data/351e95d0e20a54849bd4ce5f9b498934.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/351e95d0e20a54849bd4ce5f9b498934.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5c81c64a5992b565787866184d417128681dcc00",
+   "pkgpath": "Data/373f9bf6b0841af4ebf26d25e4a3f4e2",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/373f9bf6b0841af4ebf26d25e4a3f4e2"
+  },
+  {
+   "compression": 8,
+   "hash": "af95eab580a0fb5d6fc4db0a706872d2e44b361b",
+   "pkgpath": "Data/373f9bf6b0841af4ebf26d25e4a3f4e2.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/373f9bf6b0841af4ebf26d25e4a3f4e2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "28b015e080edc66a50d2dc6d5536882ff5d58a9a",
+   "pkgpath": "Data/3ac02e7e783571c468f9c086d2384ba7",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/3ac02e7e783571c468f9c086d2384ba7"
+  },
+  {
+   "compression": 8,
+   "hash": "97ba9767156d37f21612900580deaa2fd5558618",
+   "pkgpath": "Data/3ac02e7e783571c468f9c086d2384ba7.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/3ac02e7e783571c468f9c086d2384ba7.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "16cda6f1a7473763b65571d46e26a36860b9371f",
+   "pkgpath": "Data/3c2f1fb7e4b66e74191b7c328ada52d9",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/3c2f1fb7e4b66e74191b7c328ada52d9"
+  },
+  {
+   "compression": 8,
+   "hash": "5764910bda30075e3373a30ff418652df3587b8d",
+   "pkgpath": "Data/3c2f1fb7e4b66e74191b7c328ada52d9.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/3c2f1fb7e4b66e74191b7c328ada52d9.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "78270fb91c5501040cbd436b43a4cc39da97256f",
+   "pkgpath": "Data/3f7c3687170b90e4a8d2ee6b142670f4",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/3f7c3687170b90e4a8d2ee6b142670f4"
+  },
+  {
+   "compression": 8,
+   "hash": "326f4c4cbeb8c196cb708adf95bd1ada5723e63c",
+   "pkgpath": "Data/3f7c3687170b90e4a8d2ee6b142670f4.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/3f7c3687170b90e4a8d2ee6b142670f4.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c8395233b3bf2e8d869f8ecc0619250018487434",
+   "pkgpath": "Data/404fa8def46b1c447817e1ebdaa7144e",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/404fa8def46b1c447817e1ebdaa7144e"
+  },
+  {
+   "compression": 8,
+   "hash": "94eb8c16414ca35fa100b96dbfb1cc9806f86cd7",
+   "pkgpath": "Data/404fa8def46b1c447817e1ebdaa7144e.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/404fa8def46b1c447817e1ebdaa7144e.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "61fb4bf3b7bd2bc52ec706be03174875894a93ab",
+   "pkgpath": "Data/447591ee3d9d4204899be5fe25968ea0",
+   "size": 4120,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/447591ee3d9d4204899be5fe25968ea0"
+  },
+  {
+   "compression": 8,
+   "hash": "7debd6457016f71a3af25d91551697e86fd3f115",
+   "pkgpath": "Data/48ffda675aa0afa4f9eec3a5d5487aeb",
+   "size": 4516,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/48ffda675aa0afa4f9eec3a5d5487aeb"
+  },
+  {
+   "compression": 8,
+   "hash": "a093fe3f5f16ef9c1d73da2c9762bf53e6ad8d64",
+   "pkgpath": "Data/4a11d65ce13d5f542a0ff136cc2f3fba",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/4a11d65ce13d5f542a0ff136cc2f3fba"
+  },
+  {
+   "compression": 8,
+   "hash": "fd0bacaace106c60ea9c375d60996241ba3432e5",
+   "pkgpath": "Data/4a11d65ce13d5f542a0ff136cc2f3fba.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/4a11d65ce13d5f542a0ff136cc2f3fba.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "628eed08220f34c46d1d0cd2ba2b2e36b554f6df",
+   "pkgpath": "Data/4ceb73bc148699b469361531d6062548",
+   "size": 15368,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/4ceb73bc148699b469361531d6062548"
+  },
+  {
+   "compression": 8,
+   "hash": "9a5b68ef97e7b7215f245df316de3cef4a717a63",
+   "pkgpath": "Data/50b54341495978843a6f85583ed4417d",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/50b54341495978843a6f85583ed4417d"
+  },
+  {
+   "compression": 8,
+   "hash": "18e819958500b942933cadda65edb22b420ca52d",
+   "pkgpath": "Data/50b54341495978843a6f85583ed4417d.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/50b54341495978843a6f85583ed4417d.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e8db66854dbfda4d281c003c94d51a91d691fb2a",
+   "pkgpath": "Data/547dbd5f858c74047ba3f213e4408307",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/547dbd5f858c74047ba3f213e4408307"
+  },
+  {
+   "compression": 8,
+   "hash": "4e965ecb3c55a004d2bc525f601a72343cce798a",
+   "pkgpath": "Data/547dbd5f858c74047ba3f213e4408307.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/547dbd5f858c74047ba3f213e4408307.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6bda2276465422a936cc0bd5505c8394204ded6a",
+   "pkgpath": "Data/5e542d0126a2c7848b66bffc428905fd",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/5e542d0126a2c7848b66bffc428905fd"
+  },
+  {
+   "compression": 8,
+   "hash": "ab452a11510fc9c2a79537b93f78dbe8022a2205",
+   "pkgpath": "Data/5e542d0126a2c7848b66bffc428905fd.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/5e542d0126a2c7848b66bffc428905fd.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "347544a008fb961dcc69ee493f13d021bde427bd",
+   "pkgpath": "Data/607a5643efb168f429e438f7d6ad270a",
+   "size": 32776,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/607a5643efb168f429e438f7d6ad270a"
+  },
+  {
+   "compression": 8,
+   "hash": "4e3e92133f74456e53ad8328f3ff400edecb48b5",
+   "pkgpath": "Data/613b4036a9f55c34fb054bde02455e46",
+   "size": 4112,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/613b4036a9f55c34fb054bde02455e46"
+  },
+  {
+   "compression": 8,
+   "hash": "d6726a8001a1dd3a0d2f9f4bb0cede3130505bc2",
+   "pkgpath": "Data/68613e6a221be1a4b9f31d7fa1c2d1bf",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/68613e6a221be1a4b9f31d7fa1c2d1bf"
+  },
+  {
+   "compression": 8,
+   "hash": "353b147440b3a0c9244d1b5428be2826fc480664",
+   "pkgpath": "Data/68613e6a221be1a4b9f31d7fa1c2d1bf.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/68613e6a221be1a4b9f31d7fa1c2d1bf.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "52cbc9a2b8e5c67611957f8796c78e5c054dca67",
+   "pkgpath": "Data/6ab8493603d8f8e408750b81666a95f1",
+   "size": 27256,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6ab8493603d8f8e408750b81666a95f1"
+  },
+  {
+   "compression": 8,
+   "hash": "54c9f22b05e4b1dabc15489b9b445214ccce1eca",
+   "pkgpath": "Data/6b0a189df0bd4d5448eaefb4e673ace8",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6b0a189df0bd4d5448eaefb4e673ace8"
+  },
+  {
+   "compression": 8,
+   "hash": "02ae96c43c07e7514ca9a8d071df805f335ea368",
+   "pkgpath": "Data/6b0a189df0bd4d5448eaefb4e673ace8.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6b0a189df0bd4d5448eaefb4e673ace8.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d15a61215d06a645b582f77df73d5676c1d16794",
+   "pkgpath": "Data/6dda07f1420a968449cf4c6620c44d9f",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6dda07f1420a968449cf4c6620c44d9f"
+  },
+  {
+   "compression": 8,
+   "hash": "be727e64983e36f483ee026f97cf305acb896126",
+   "pkgpath": "Data/6dda07f1420a968449cf4c6620c44d9f.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6dda07f1420a968449cf4c6620c44d9f.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9fd99ebd4f8ed36e98f9e242c8f91de7a5b540e2",
+   "pkgpath": "Data/6fa5cf178eaaa5f42b820f636bb6e0bd",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6fa5cf178eaaa5f42b820f636bb6e0bd"
+  },
+  {
+   "compression": 8,
+   "hash": "269199d2e8ddaae31789d01740b6f98bab968f3b",
+   "pkgpath": "Data/6fa5cf178eaaa5f42b820f636bb6e0bd.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/6fa5cf178eaaa5f42b820f636bb6e0bd.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ac6a2d3c02406f6ccbdbf01e63a02d0b54dfde1a",
+   "pkgpath": "Data/70f23eaf7d8ae9147aa542d20e93733b",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/70f23eaf7d8ae9147aa542d20e93733b"
+  },
+  {
+   "compression": 8,
+   "hash": "e2ebc1605fdd6bbb675775c89254efc2bff46169",
+   "pkgpath": "Data/70f23eaf7d8ae9147aa542d20e93733b.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/70f23eaf7d8ae9147aa542d20e93733b.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f184df129d0180aacd0b2664c0bf4473799d1062",
+   "pkgpath": "Data/71583cfd8899717428d5b1a95fa39cda",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/71583cfd8899717428d5b1a95fa39cda"
+  },
+  {
+   "compression": 8,
+   "hash": "2cf6f470785553ff55adb0bbfc7bd5cce7c581a3",
+   "pkgpath": "Data/71583cfd8899717428d5b1a95fa39cda.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/71583cfd8899717428d5b1a95fa39cda.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "3ff21cc9399c5bc2c8380027618570bfbe43ab5c",
+   "pkgpath": "Data/71bc1b6b66e8b784b972199b7e90204e",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/71bc1b6b66e8b784b972199b7e90204e"
+  },
+  {
+   "compression": 8,
+   "hash": "785ff1a42691a2fb865aa125171ad0cd33fa64de",
+   "pkgpath": "Data/71bc1b6b66e8b784b972199b7e90204e.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/71bc1b6b66e8b784b972199b7e90204e.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "af4b5c018c8680b0b692a89ed4fd0805dbf498b3",
+   "pkgpath": "Data/72127ba7dd8c6b04bb3f29c7ee669813",
+   "size": 17412,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/72127ba7dd8c6b04bb3f29c7ee669813"
+  },
+  {
+   "compression": 8,
+   "hash": "d7ef1679c51277dacdbe9b63191a0f5509fe85e6",
+   "pkgpath": "Data/729a3ae164bcb3b4380459386adcf331",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/729a3ae164bcb3b4380459386adcf331"
+  },
+  {
+   "compression": 8,
+   "hash": "c1f53d6c2716736c786150e602ff2feda8654d72",
+   "pkgpath": "Data/729a3ae164bcb3b4380459386adcf331.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/729a3ae164bcb3b4380459386adcf331.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "df64499db555b4b75f05645bd504ae3a89d40224",
+   "pkgpath": "Data/74aca53eb7273624baffc2bf5e5cc173",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/74aca53eb7273624baffc2bf5e5cc173"
+  },
+  {
+   "compression": 8,
+   "hash": "cbf619bceeb88c4ce28a0eb1468e8e6a83a034a6",
+   "pkgpath": "Data/74aca53eb7273624baffc2bf5e5cc173.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/74aca53eb7273624baffc2bf5e5cc173.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "301c8729c895a5f229e40347b52ad112f273f954",
+   "pkgpath": "Data/771903fe7b4674445829e52e91cff019",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/771903fe7b4674445829e52e91cff019"
+  },
+  {
+   "compression": 8,
+   "hash": "e3fcd47926f1320b52a819f03e01681b23ddecd3",
+   "pkgpath": "Data/771903fe7b4674445829e52e91cff019.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/771903fe7b4674445829e52e91cff019.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "47d245f6de70a7e4f9a36fd123335f4c7b1df80a",
+   "pkgpath": "Data/79b86f3419b87f3429164a956da8cfab",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/79b86f3419b87f3429164a956da8cfab"
+  },
+  {
+   "compression": 8,
+   "hash": "36fec081b8551ca67a8073ec41aadf305b282392",
+   "pkgpath": "Data/79b86f3419b87f3429164a956da8cfab.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/79b86f3419b87f3429164a956da8cfab.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "945ddcbab937d29ca90e06806c25bb6aced1b436",
+   "pkgpath": "Data/7d1f4dd94c8e6e940b0730076ea7d6d9",
+   "size": 4112,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/7d1f4dd94c8e6e940b0730076ea7d6d9"
+  },
+  {
+   "compression": 8,
+   "hash": "36eca59298461f23d9192682a8753f10a2e6b1a2",
+   "pkgpath": "Data/7d89469544dfa214eabdbf37fca76f40",
+   "size": 6788,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/7d89469544dfa214eabdbf37fca76f40"
+  },
+  {
+   "compression": 8,
+   "hash": "0488e65b1275fd18cc357304baece83bdd9f9b2f",
+   "pkgpath": "Data/81899cddfbc72494497a6db0ae045f2c",
+   "size": 12920,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/81899cddfbc72494497a6db0ae045f2c"
+  },
+  {
+   "compression": 8,
+   "hash": "4a38b01fefb6a85e1344db49a07d4d27564cedc4",
+   "pkgpath": "Data/85a45a6d8b2ffb84987d2b028ecfb220",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/85a45a6d8b2ffb84987d2b028ecfb220"
+  },
+  {
+   "compression": 8,
+   "hash": "fd6fb0721bcc1974133ce33a975d41bc34527e88",
+   "pkgpath": "Data/85a45a6d8b2ffb84987d2b028ecfb220.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/85a45a6d8b2ffb84987d2b028ecfb220.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0e29b22238e9f7d04c7efd6b82ba833eb6ba8c58",
+   "pkgpath": "Data/87a5e40cc271ea648b583616f6ebe7fe",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/87a5e40cc271ea648b583616f6ebe7fe"
+  },
+  {
+   "compression": 8,
+   "hash": "34ac052515d6b28abfd6a41ea8b6eb07b3e1b672",
+   "pkgpath": "Data/87a5e40cc271ea648b583616f6ebe7fe.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/87a5e40cc271ea648b583616f6ebe7fe.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5ad770c1515a54cb09bdab60d41f1d42b517482d",
+   "pkgpath": "Data/8ce0a6f4c8cae334d8a5617f302b6769",
+   "size": 1513964,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/8ce0a6f4c8cae334d8a5617f302b6769"
+  },
+  {
+   "compression": 8,
+   "hash": "9b1a4e53042eafb0fa93b7a7a3f9bfe41807e9ff",
+   "pkgpath": "Data/8ecbbcae4cc747a4abbc4adce795d25e",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/8ecbbcae4cc747a4abbc4adce795d25e"
+  },
+  {
+   "compression": 8,
+   "hash": "d3ba1d34c7b512e5f5f31d90e1ec7fdc3f17d335",
+   "pkgpath": "Data/8ecbbcae4cc747a4abbc4adce795d25e.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/8ecbbcae4cc747a4abbc4adce795d25e.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "508c8c14ab6bf87ecd3b9e5906f35344df76a4f8",
+   "pkgpath": "Data/936dea238abb0864ab3985a995e16a29",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/936dea238abb0864ab3985a995e16a29"
+  },
+  {
+   "compression": 8,
+   "hash": "c2abe8e0f221857e76bf5b167e476f420f5e127f",
+   "pkgpath": "Data/936dea238abb0864ab3985a995e16a29.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/936dea238abb0864ab3985a995e16a29.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "84e2c5946258feaba6a6dbc0b59cb00e38fddb85",
+   "pkgpath": "Data/9660a4ca1ca8425408ac25c641932977",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/9660a4ca1ca8425408ac25c641932977"
+  },
+  {
+   "compression": 8,
+   "hash": "3ca78f425a161647004c1ea5b7649ad7c0d41782",
+   "pkgpath": "Data/9660a4ca1ca8425408ac25c641932977.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/9660a4ca1ca8425408ac25c641932977.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "df60a5c124490673ed72fe41fb840dbfa109245f",
+   "pkgpath": "Data/980acadb960f8424c94307ec0e585b4e",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/980acadb960f8424c94307ec0e585b4e"
+  },
+  {
+   "compression": 8,
+   "hash": "6f1931d24a72407f1b6ddc814c199bd0511ffa88",
+   "pkgpath": "Data/980acadb960f8424c94307ec0e585b4e.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/980acadb960f8424c94307ec0e585b4e.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1b3259e0a177edf5486b3e933ab04a28e412abe5",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 5886452,
+   "size": 6086260,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "deba4a0024b6071ccf1436bd3d6d5ca997118a8e",
+   "hash": "e603b40d2e2e0c067209a8bdade4c875fcf983cd",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 65927568,
+   "size": 67758096,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -22,29 +701,29 @@
      "version": 3
     }
    },
-   "xfrm_hash": "711a9c63902e86d9748c374bbcd6c5b81dd13516",
+   "xfrm_hash": "3be351dd824394cc68f659180954cae2e935f708",
    "xfrm_path": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.mlcontrol-4b334bae39d085ce/libil2cpp.so-b65300fbfca9a0c2",
-   "xfrm_size": 65928326
+   "xfrm_size": 67758854
   },
   {
    "compression": 8,
-   "hash": "f40eb17b43113196d3596610f2e2ef67448f5d1a",
+   "hash": "e1d6a3392ecde066ea0cc34538e9839d8d87671d",
    "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
    "size": 9216,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
   },
   {
    "compression": 8,
-   "hash": "ed19c075c8e38dde3841888614364d15cc7538a0",
+   "hash": "c0a15a2993e1f9df9db7db864cb0c8f8fa94ca45",
    "pkgpath": "bin/UnityEngine.TestRunner.dll",
    "size": 65536,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
   },
   {
    "compression": 8,
-   "hash": "8c442df867d48e5c05369ecf7257288e2e2ee6dd",
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
    "pkgpath": "bin/UnityMagicLeap.so",
-   "size": 728952,
+   "size": 728232,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
    "xfrm_flags": {
     "signed": {
@@ -55,9 +734,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "d6d34b7874e807dc64892e0f602b20d3d83f20ed",
+   "xfrm_hash": "83c9a0430028ce4483b5ac1e7c35f504f3d8a88b",
    "xfrm_path": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.mlcontrol-4b334bae39d085ce/UnityMagicLeap.so-a10dd8611c4f42d4",
-   "xfrm_size": 729710
+   "xfrm_size": 728990
   },
   {
    "compression": 8,
@@ -120,16 +799,16 @@
   },
   {
    "compression": 8,
-   "hash": "dc8d956e48e76474f190e96cb3b127735edb7bfc",
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
    "pkgpath": "Data/Resources/unity default resources",
-   "size": 3308252,
+   "size": 3308004,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Resources/unity default resources"
   },
   {
    "compression": 8,
-   "hash": "7d88774d6f4ab6f00d755b641e3ef203a306d7fe",
+   "hash": "30e63c0894d8b1ebbcf5e0ab0983b91303d42a6c",
    "pkgpath": "Data/Resources/unity_builtin_extra",
-   "size": 287508,
+   "size": 287532,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/Resources/unity_builtin_extra"
   },
   {
@@ -141,6 +820,216 @@
   },
   {
    "compression": 8,
+   "hash": "f5172e2060162eed7cfaee24297f29646799ae41",
+   "pkgpath": "Data/a03c400b0e3959f428ee99dfc6cfc263",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a03c400b0e3959f428ee99dfc6cfc263"
+  },
+  {
+   "compression": 8,
+   "hash": "63f368c1e53727c547ee9079675f2b1ee5d89e2a",
+   "pkgpath": "Data/a03c400b0e3959f428ee99dfc6cfc263.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a03c400b0e3959f428ee99dfc6cfc263.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ff7f5bda4843b2ee4998cbde9391621edd20530b",
+   "pkgpath": "Data/a1ae041906217ae44a774d4ca139af50",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a1ae041906217ae44a774d4ca139af50"
+  },
+  {
+   "compression": 8,
+   "hash": "1403018c562fb650d3f1f52657c6b9c336c85189",
+   "pkgpath": "Data/a1ae041906217ae44a774d4ca139af50.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a1ae041906217ae44a774d4ca139af50.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "248373a94689e5b443b15a1150f0330ae50fc252",
+   "pkgpath": "Data/a469f920b21fc7c4fb5b950917ce2fb2",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a469f920b21fc7c4fb5b950917ce2fb2"
+  },
+  {
+   "compression": 8,
+   "hash": "ba8650b3f60a184ef65411c32788766fa4449172",
+   "pkgpath": "Data/a469f920b21fc7c4fb5b950917ce2fb2.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a469f920b21fc7c4fb5b950917ce2fb2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d2aff21bf6e2d8fc5c6927bae96835919f5c1e1c",
+   "pkgpath": "Data/a92d6fdbe2c35f94190497c18b88f9af",
+   "size": 4124,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/a92d6fdbe2c35f94190497c18b88f9af"
+  },
+  {
+   "compression": 8,
+   "hash": "59290166442f91160d53609780934698c960d31a",
+   "pkgpath": "Data/aa80dc44aa4fe4c43bb9d51d90cf2958",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/aa80dc44aa4fe4c43bb9d51d90cf2958"
+  },
+  {
+   "compression": 8,
+   "hash": "682cb185ab8155eb21b3073b982440433121a3bf",
+   "pkgpath": "Data/aa80dc44aa4fe4c43bb9d51d90cf2958.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/aa80dc44aa4fe4c43bb9d51d90cf2958.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5b2e82420608d0d35d6422d8af08b4e8ae0b34f0",
+   "pkgpath": "Data/ac8ed710934a3564686a096bb351caee",
+   "size": 41824,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/ac8ed710934a3564686a096bb351caee"
+  },
+  {
+   "compression": 8,
+   "hash": "0f8f60d4f3384b89755b11952cbcb3f4ea16765f",
+   "pkgpath": "Data/afe1e502240079342a0a980484b6da8b",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/afe1e502240079342a0a980484b6da8b"
+  },
+  {
+   "compression": 8,
+   "hash": "180a6274d38f988055cd5deb80dfee039ce7f7a6",
+   "pkgpath": "Data/afe1e502240079342a0a980484b6da8b.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/afe1e502240079342a0a980484b6da8b.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "498d65262b19a9f2458dbeff07a8b5f03bb3e7fd",
+   "pkgpath": "Data/aff59c63d25d43f4c938f248837c30fb",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/aff59c63d25d43f4c938f248837c30fb"
+  },
+  {
+   "compression": 8,
+   "hash": "b1bf7f6358c49019cf9d3ce8482cbc912ddaa73a",
+   "pkgpath": "Data/aff59c63d25d43f4c938f248837c30fb.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/aff59c63d25d43f4c938f248837c30fb.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "86633c2fc2ca40afd618eae0da1f24198e5b80ee",
+   "pkgpath": "Data/b266511438fae724f9d3ce6bd26583e8",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b266511438fae724f9d3ce6bd26583e8"
+  },
+  {
+   "compression": 8,
+   "hash": "4a9f96cfe9310770ca8b21ed93fd7a029c6b28e2",
+   "pkgpath": "Data/b266511438fae724f9d3ce6bd26583e8.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b266511438fae724f9d3ce6bd26583e8.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "427a1e1219a36a18221c2e040743284718804775",
+   "pkgpath": "Data/b6e42614562a56445ba4b5d90301f06f",
+   "size": 4120,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b6e42614562a56445ba4b5d90301f06f"
+  },
+  {
+   "compression": 8,
+   "hash": "89efe9dea0bb550c4776673f6d3073f86409d84c",
+   "pkgpath": "Data/b71bb466b71fd13449dd736f63caeb67",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b71bb466b71fd13449dd736f63caeb67"
+  },
+  {
+   "compression": 8,
+   "hash": "a8c0e773d5c751682766b728fedd3e1b4623977f",
+   "pkgpath": "Data/b71bb466b71fd13449dd736f63caeb67.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b71bb466b71fd13449dd736f63caeb67.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bfeb4c4d57e68deb887f0fa7177cf14b8dbb5cb1",
+   "pkgpath": "Data/b7f000750830ddb4bbc80065b9314ce9",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b7f000750830ddb4bbc80065b9314ce9"
+  },
+  {
+   "compression": 8,
+   "hash": "0ebe2f6b903224ded8774f8d2ce0fe642919b5b2",
+   "pkgpath": "Data/b7f000750830ddb4bbc80065b9314ce9.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b7f000750830ddb4bbc80065b9314ce9.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "dc4c1dde1dbbfea43b29bf981333e14c46dfa488",
+   "pkgpath": "Data/b8d56fc3449f426408c23c723b58d7b5",
+   "size": 4108,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b8d56fc3449f426408c23c723b58d7b5"
+  },
+  {
+   "compression": 8,
+   "hash": "65d61f32c487d1623c304992e6110f10001d184a",
+   "pkgpath": "Data/b9960364038cbfa4aa49d7b2032d3110",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b9960364038cbfa4aa49d7b2032d3110"
+  },
+  {
+   "compression": 8,
+   "hash": "850384e0d6fe3bbabf104ea32c7ea7d7f9df10a4",
+   "pkgpath": "Data/b9960364038cbfa4aa49d7b2032d3110.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/b9960364038cbfa4aa49d7b2032d3110.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ee60f6e57f960b2ba2c3cf5df501dc8e851f7318",
+   "pkgpath": "Data/bdd06fb88ef36ed4a85dd506352c2d80",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/bdd06fb88ef36ed4a85dd506352c2d80"
+  },
+  {
+   "compression": 8,
+   "hash": "1b87fba02381306aeb565ce3d8d3eb36a986098b",
+   "pkgpath": "Data/bdd06fb88ef36ed4a85dd506352c2d80.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/bdd06fb88ef36ed4a85dd506352c2d80.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d98ebb24e9176981762b4aa8136f302a35a4ea30",
+   "pkgpath": "Data/bf95b6fdc179b0e4f890c841406193fc",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/bf95b6fdc179b0e4f890c841406193fc"
+  },
+  {
+   "compression": 8,
+   "hash": "97fe61e22f677edd1d955dddf12cdbcfc178c421",
+   "pkgpath": "Data/bf95b6fdc179b0e4f890c841406193fc.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/bf95b6fdc179b0e4f890c841406193fc.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "2874cf5d0d19d23007dda391e8b59e87be02cabf",
+   "pkgpath": "Data/bfe953600e8fb1849a804ee08ace7b4c",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/bfe953600e8fb1849a804ee08ace7b4c"
+  },
+  {
+   "compression": 8,
+   "hash": "3d35d6c4453a5348633ff4d04d8a33f772c01618",
+   "pkgpath": "Data/bfe953600e8fb1849a804ee08ace7b4c.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/bfe953600e8fb1849a804ee08ace7b4c.resS"
+  },
+  {
+   "compression": 8,
    "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
    "pkgpath": "Data/boot.config",
    "size": 55,
@@ -148,16 +1037,240 @@
   },
   {
    "compression": 8,
-   "hash": "2179349fc7d282e8af8d5bfd95f4bf46ef1cc583",
+   "hash": "8b5f2d4a8d576cd51cf256efcf6995f08f7deff8",
+   "pkgpath": "Data/c55042318a938344ab23cd7f09dd0076",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/c55042318a938344ab23cd7f09dd0076"
+  },
+  {
+   "compression": 8,
+   "hash": "ca8b4fb05e91df02c628625e4fa269636087d442",
+   "pkgpath": "Data/c55042318a938344ab23cd7f09dd0076.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/c55042318a938344ab23cd7f09dd0076.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "951fe22102111a794bbf88e2f4c7744db7ed992d",
+   "pkgpath": "Data/c83956915580e42489479d2a109470ab",
+   "size": 4116,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/c83956915580e42489479d2a109470ab"
+  },
+  {
+   "compression": 8,
+   "hash": "25a95df560ed4dea25f58e74c295370ec64f4790",
+   "pkgpath": "Data/c94b57b5a32a22d43ade66e09f6a4bd2",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/c94b57b5a32a22d43ade66e09f6a4bd2"
+  },
+  {
+   "compression": 8,
+   "hash": "e7db21fc3083e6c12196a3c426eaf34654e14e37",
+   "pkgpath": "Data/c94b57b5a32a22d43ade66e09f6a4bd2.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/c94b57b5a32a22d43ade66e09f6a4bd2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9ba16693a330c0b70b3315adbc7dca92b556f8cf",
+   "pkgpath": "Data/cd9006dc442cc244e89b3f492384d46a",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/cd9006dc442cc244e89b3f492384d46a"
+  },
+  {
+   "compression": 8,
+   "hash": "fd51e22c23c0e386a303d7414f1782ca7f98144b",
+   "pkgpath": "Data/cd9006dc442cc244e89b3f492384d46a.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/cd9006dc442cc244e89b3f492384d46a.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "92e29c00b2e0d82ce08d5b26cfd288b54baa0c45",
+   "pkgpath": "Data/d248d4d1588851f43a9fa18a4e6f0209",
+   "size": 13276,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d248d4d1588851f43a9fa18a4e6f0209"
+  },
+  {
+   "compression": 8,
+   "hash": "c7d2937ba47ce3107dac7198d6d4541f1e636dae",
+   "pkgpath": "Data/d2e8e90fac2e6a341a38e1c3963c218d",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d2e8e90fac2e6a341a38e1c3963c218d"
+  },
+  {
+   "compression": 8,
+   "hash": "f7dbf2f9386c226dfc52e79e5cd68662b8fb77da",
+   "pkgpath": "Data/d2e8e90fac2e6a341a38e1c3963c218d.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d2e8e90fac2e6a341a38e1c3963c218d.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "b10cea186e3d7d37767170e2dedf6698d69623d1",
+   "pkgpath": "Data/d2f406cad28afda489b94594fb3ce0af",
+   "size": 4120,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d2f406cad28afda489b94594fb3ce0af"
+  },
+  {
+   "compression": 8,
+   "hash": "a9ba21e2d4d24aacfb0c53525cc35c1d4127ad2d",
+   "pkgpath": "Data/d5a51525b27e3ee4aadbeb39cbcf0750",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d5a51525b27e3ee4aadbeb39cbcf0750"
+  },
+  {
+   "compression": 8,
+   "hash": "a85639e04a071f73d2d1b15add47e1a006d11806",
+   "pkgpath": "Data/d5a51525b27e3ee4aadbeb39cbcf0750.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d5a51525b27e3ee4aadbeb39cbcf0750.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "16f8d987be8ec61d285b1d43b111c6b7ce8ff320",
+   "pkgpath": "Data/d8c290e38ff0425409d0ae6a98c95e41",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d8c290e38ff0425409d0ae6a98c95e41"
+  },
+  {
+   "compression": 8,
+   "hash": "aae68b0a339f7220b7e0af89459f6564b4398804",
+   "pkgpath": "Data/d8c290e38ff0425409d0ae6a98c95e41.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d8c290e38ff0425409d0ae6a98c95e41.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "7402310ee2dff005d7e840534b8a68210d49f3cb",
+   "pkgpath": "Data/d96974690c77f50489eb60ec84bd8dac",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d96974690c77f50489eb60ec84bd8dac"
+  },
+  {
+   "compression": 8,
+   "hash": "bdd2b7112ec318b26b23fbea51705fa7d769a276",
+   "pkgpath": "Data/d96974690c77f50489eb60ec84bd8dac.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/d96974690c77f50489eb60ec84bd8dac.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "22aa8d789f0b3c93eaa5da96f9d20436a0ae56b1",
+   "pkgpath": "Data/ddc2c19b8a216d748a357ffe32ba4dc1",
+   "size": 4116,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/ddc2c19b8a216d748a357ffe32ba4dc1"
+  },
+  {
+   "compression": 8,
+   "hash": "a12c3127c7e218719124f138ac96e4bfba891e0b",
+   "pkgpath": "Data/df01d03f056c6f445b4b8a0ae054207c",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/df01d03f056c6f445b4b8a0ae054207c"
+  },
+  {
+   "compression": 8,
+   "hash": "897a96ebc27af2e284b3d74d489155a22d5bf8fe",
+   "pkgpath": "Data/df01d03f056c6f445b4b8a0ae054207c.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/df01d03f056c6f445b4b8a0ae054207c.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "052c5169e4740f05459ed9e794ce38365b2bb3ce",
+   "pkgpath": "Data/e138166e7a7c70f49943be7edda35d35",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/e138166e7a7c70f49943be7edda35d35"
+  },
+  {
+   "compression": 8,
+   "hash": "750cd032abeae5a2c96e09977a82cb5d540f41bf",
+   "pkgpath": "Data/e138166e7a7c70f49943be7edda35d35.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/e138166e7a7c70f49943be7edda35d35.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0d3268f946e3edee9f4ef59825ce3b4f8d67ff24",
+   "pkgpath": "Data/e213272ad8ff213409a6e13b5c26b4e4",
+   "size": 9080,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/e213272ad8ff213409a6e13b5c26b4e4"
+  },
+  {
+   "compression": 8,
+   "hash": "6934b4507f63b2984253cf7cb52a31f6712fa798",
+   "pkgpath": "Data/e881ae5627d1cc84395303acfbca6fb2",
+   "size": 28804,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/e881ae5627d1cc84395303acfbca6fb2"
+  },
+  {
+   "compression": 8,
+   "hash": "3b73c5c223c4f81abf92ede9da6a5d78aee0f5cf",
+   "pkgpath": "Data/eb88496804341c648b32a75843d92ccb",
+   "size": 4112,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/eb88496804341c648b32a75843d92ccb"
+  },
+  {
+   "compression": 8,
+   "hash": "f7b5656059e8374dfce5f87ebd7087d55755b164",
+   "pkgpath": "Data/ec6c5af987867f54aa08fba81ee279bd",
+   "size": 19256,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/ec6c5af987867f54aa08fba81ee279bd"
+  },
+  {
+   "compression": 8,
+   "hash": "d77b79e7f95fa28c5cb3789287c19254a21874ec",
+   "pkgpath": "Data/f4b8ab78b57749d4e96d36f6d8a395d0",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/f4b8ab78b57749d4e96d36f6d8a395d0"
+  },
+  {
+   "compression": 8,
+   "hash": "cc1f0f212496dad0927d2cb8ea042eecf89d6712",
+   "pkgpath": "Data/f4b8ab78b57749d4e96d36f6d8a395d0.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/f4b8ab78b57749d4e96d36f6d8a395d0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0ef69e9b946b0f15953a353b8dff1394610b74bd",
+   "pkgpath": "Data/f6439b54b28f3884eb67579dec0b6f21",
+   "size": 4240,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/f6439b54b28f3884eb67579dec0b6f21"
+  },
+  {
+   "compression": 8,
+   "hash": "8b6b9ded3a789687682284a635c389f26759b5a4",
+   "pkgpath": "Data/f6439b54b28f3884eb67579dec0b6f21.resS",
+   "size": 4096,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/f6439b54b28f3884eb67579dec0b6f21.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bd2b3595bfd94ebfae3a39272c43808f71e2a0c8",
+   "pkgpath": "Data/fa3fc398fe396744c9299e70b63bfdd7",
+   "size": 11284,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/fa3fc398fe396744c9299e70b63bfdd7"
+  },
+  {
+   "compression": 8,
+   "hash": "cba7dad32b2c878861920752dd61d1b48d9eba30",
+   "pkgpath": "Data/faeb738b5a2c3ff43bd104dd5b1a275c",
+   "size": 4116,
+   "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/faeb738b5a2c3ff43bd104dd5b1a275c"
+  },
+  {
+   "compression": 8,
+   "hash": "ab33ab616d3afd574f93e433c76bb521f1c34baa",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 34384,
+   "size": 43024,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "93f239eed7be2cde868a7a30b59b327af8460873",
+   "hash": "98da59390b515a323ddbed51d16dcc3b62e49381",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 48452,
+   "size": 55068,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
@@ -169,9 +1282,9 @@
   },
   {
    "compression": 8,
-   "hash": "f7c702e15acdd156e5721db63945ad52f133cea7",
+   "hash": "5ca7b8515ace68668193bd2f5f2c5af42632b0ff",
    "pkgpath": "Data/level0",
-   "size": 10216,
+   "size": 10272,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/level0"
   },
   {
@@ -183,9 +1296,9 @@
   },
   {
    "compression": 8,
-   "hash": "b33ca0635df87375d86494c9f60b1fbe7c668dda",
+   "hash": "f98b249315722faff72e32375e8dfb1cfe85be92",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 78492,
+   "size": 79648,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -253,9 +1366,9 @@
   },
   {
    "compression": 8,
-   "hash": "f4b680f8849d213bee8939f2b0cd869f7bc9a7e2",
+   "hash": "2941838c7996ccf3b3ce8ed1a7a864d172bd4b7c",
    "pkgpath": "bin/Player.elf",
-   "size": 22055960,
+   "size": 22314872,
    "src": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/Temp/StagingArea/Player.elf",
    "xfrm_flags": {
     "signed": {
@@ -266,9 +1379,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "ec6445d0f27c817b7b596fb1593c48e73ab6d139",
+   "xfrm_hash": "5b0bf45c339f2f2a57640fd421b23abb615461d3",
    "xfrm_path": "/Users/chandler/Desktop/Magic-Leap-Device-Control/Control/.out/.cache/release_lumin_clang-3.8_aarch64/com.pubnub.mlcontrol-4b334bae39d085ce/Player.elf-1b3aca42ee5c811a",
-   "xfrm_size": 22056718
+   "xfrm_size": 22315630
   },
   {
    "compression": 8,

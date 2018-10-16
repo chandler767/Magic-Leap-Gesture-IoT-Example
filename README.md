@@ -47,8 +47,8 @@ The tutorial *Build a Smart Home with Magic Leap Gestures and IoT* (link coming 
 
 Use this project as a seed to build your own Magic Leap IoT application. A few ideas:
 
- 	* Use a IR blaster to control your TV or game console.
- 	* Use weather sensors and stream the information to a HUD on the Magic Leap device.
- 	* [Use the PowerStrip Sketch](https://github.com/chandler767/Magic-Leap-Device-Control/tree/master/PowerStrip) to control high voltage devices like a coffee maker or a fan (always be careful with high voltage electronics).
+- Use a IR blaster to control your TV or game console.
+- Use weather sensors and stream the information to a HUD on the Magic Leap device.
+- [Use the PowerStrip Sketch](https://github.com/chandler767/Magic-Leap-Device-Control/tree/master/PowerStrip) to control high voltage devices like a coffee maker or a fan (always be careful with high voltage electronics).
 
 ### Have suggestions or questions about this project? Reach out at devrel@pubnub.com.

@@ -29,8 +29,26 @@ For example, when a Magic Leap user throws a ball in the virtual world, that mot
 </a>
 
 This project consists of three components:
-    - The Control app built in Unity for Magic Leap.
-    - The LED Arduino sketch for controlling a RGB LED from the Control app.
-    - The PowerStrip Arduino sketch for controlling a relay connected to a power strip. 
 
-## 
+<img src="https://pubnub.com/blog/wp-content/uploads/2018/10/Magic-Leap-LED-IoT.gif" alt="Magic Leap LED IoT Toggle" width="300" align="right" />
+<img src="https://pubnub.com/blog/wp-content/uploads/2018/10/Magic-Leap-LED-IoT-change.gif" alt="Magic Leap LED IoT Change Mode" width="300" align="right" />
+
+- The Control app built in Unity for Magic Leap.
+    
+- The LED Arduino sketch for controlling a RGB LED from the Control app.
+
+- The PowerStrip Arduino sketch for controlling a relay connected to a power strip.
+    
+Read the [Getting Started with Magic Leap and Unity tutorial](https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_pb=magic-leap-one-Internet-of-Things) familiarize yourself with Unity Video Game Engine development for Magic Leap and setup your development environment.
+
+The tutorial Build a Smart Home with Magic Leap Gestures and IoT (link coming soon) details how to run this project and correctly setup your development environments for Magic Leap and Arduino development with PubNub.
+
+## What's Next?
+
+Use this project as a seed to build your own Magic Leap IoT application. A few ideas:
+
+ 	* Use a IR blaster to control your TV or game console.
+ 	* Use weather sensors and stream the information to a HUD on the Magic Leap device.
+ 	* [Use the PowerStrip Sketch](https://github.com/chandler767/Magic-Leap-Device-Control/tree/master/PowerStrip) to control high voltage devices like a coffee maker or a fan (always be careful with high voltage electronics).
+
+### Have suggestions or questions about this project? Reach out at devrel@pubnub.com.

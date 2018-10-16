@@ -2,11 +2,11 @@
 
 ### Gesture controlled smart light powered by [PubNub](https://www.pubnub.com/?devrel_gh=Magic-Leap-Gesture-IoT-Example).
 
-<a href="https://www.pubnub.com/blog/?devrel_gh=Magic-Leap-Gesture-IoT-Example">
-    <img src="https://i.imgur.com/MdLGLhr.gif" align="center" alt="Magic Leap LED IoT Toggle" width="375" height="282" />
-</a>
-
 Imagine a world where you walk in a smart home, look at a smart light in the room, make a gesture with your hands, and the light turns off or on. Swipe with a hand to change the channel on your TV. Glance at a thermostat and speak your preferred temperature aloud. This isn't the future. This is all possible now with the Magic Leap One and PubNub.
+
+<a href="https://www.pubnub.com/blog/?devrel_gh=Magic-Leap-Gesture-IoT-Example">
+    <img src="https://i.imgur.com/b8WDyY1.gif" width="300" align="right" />
+</a>
 
 This project demonstrates how to control an RGB LED with an Arduino using Magic Leap Gestures and PubNub. Learn more about how to build your own smart home with Magic Leap and PubNub from the tutorial (Coming Soon).
 
@@ -33,4 +33,4 @@ This project consists of three components:
     - The LED Arduino sketch for controlling a RGB LED from the Control app.
     - The PowerStrip Arduino sketch for controlling a relay connected to a power strip. 
 
-## How 
+## 

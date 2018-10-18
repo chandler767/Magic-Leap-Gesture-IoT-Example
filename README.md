@@ -24,7 +24,7 @@ For example, when a Magic Leap user throws a ball in the virtual world, that mot
  
 - You’ll first need to sign up for a [PubNub account](https://dashboard.pubnub.com/signup/?devrel_gh=Magic-Leap-Gesture-IoT-Example). Once you sign up, you can get your unique PubNub keys from the [PubNub Developer Portal](https://admin.pubnub.com/?devrel_gh=Magic-Leap-Gesture-IoT-Example).
 
-<a href="https://dashboard.pubnub.com/signup?devrel_gh=agic-Leap-Gesture-IoT-Example">
+<a href="https://dashboard.pubnub.com/signup?devrel_gh=magic-Leap-Gesture-IoT-Example">
     <img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
 </a>
 
@@ -39,7 +39,7 @@ This project consists of three components:
 
 - The PowerStrip Arduino sketch for controlling a relay connected to a power strip.
     
-Read the [Getting Started with Magic Leap and Unity tutorial](https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_pb=magic-leap-one-Internet-of-Things) to familiarize yourself with Unity Video Game Engine development for Magic Leap and setup your development environment.
+Read the [Getting Started with Magic Leap and Unity tutorial](https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_gh=magic-Leap-Gesture-IoT-Example) to familiarize yourself with Unity Video Game Engine development for Magic Leap and setup your development environment.
 
 The tutorial *[Controlling Internet-connected Devices with Magic Leap Hand Gestures](https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/)* details how to run this project and correctly setup your development environment for Magic Leap and Arduino development with PubNub.
 

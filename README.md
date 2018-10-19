@@ -10,7 +10,7 @@ Imagine a world where you walk in a smart home, look at a smart light in the roo
 
 This project demonstrates how to control an RGB LED or a power strip with an Arduino using Magic Leap Gestures and PubNub. Learn more about how to build your own smart home with Magic Leap and PubNub from the [tutorial](https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/?devrel_gh=Magic-Leap-Gesture-IoT-Example).
 
-<a href="https://www.pubnub.com/blog/?devrel_gh=Magic-Leap-Gesture-IoT-Example">
+<a href="https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/?devrel_gh=Magic-Leap-Gesture-IoT-Example">
     <img alt="PubNub Blog" src="https://i.imgur.com/aJ927CO.png" width=260 height=98/>
 </a>
 

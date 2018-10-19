@@ -16,6 +16,8 @@ This project demonstrates how to control an RGB LED or a power strip with an Ard
 
 ## Why PubNub and Magic Leap?
 
+<em>This is part two of my Magic Leap series. Check out the other projects/posts <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity/?devrel_gh=magic-Leap-Gesture-IoT-Example" target="_blank" rel="noopener">Getting Started with Magic Leap and PubNub</a> and <a href="https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/?devrel_gh=magic-Leap-Gesture-IoT-Example" target="_blank" rel="noopener">Create a Multiplayer Augmented Reality Game with Magic Leap and Unity</a>.</em>
+
 Developers have been building multiplayer games and other multi-user experiences with PubNub for years, and PubNub definitely sees AR as next on the horizon. PubNub is a natural fit in the AR world and their technology can power the realtime interaction between AR headsets or physical objects in the same location, or even across the Earth.
 
 For example, when a Magic Leap user throws a ball in the virtual world, that motion is synchronized in realtime across every other connected user. Or if a user uses a hand gesture to turn on a light, PubNub is sending the message to that light to turn on. Multi-user experiences, or the relationship between the AR headset and the physical world around us, is where PubNub is required and excels.
@@ -52,3 +54,5 @@ Use this project as a seed to build your own Magic Leap IoT application. A few i
 - [Use the PowerStrip Sketch](https://github.com/chandler767/Magic-Leap-Device-Control/tree/master/PowerStrip) to control high voltage devices like a coffee maker or a fan (always be careful with high voltage electronics).
 
 ### Have suggestions or questions about this project? Reach out at devrel@pubnub.com.
+
+<em>This is part two of my Magic Leap series. Check out the other projects/posts <a href="https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity/?devrel_gh=magic-Leap-Gesture-IoT-Example" target="_blank" rel="noopener">Getting Started with Magic Leap and PubNub</a> and <a href="https://www.pubnub.com/blog/Multiplayer-Augmented-Reality-Game-Magic-Leap-unity/?devrel_gh=magic-Leap-Gesture-IoT-Example" target="_blank" rel="noopener">Create a Multiplayer Augmented Reality Game with Magic Leap and Unity</a>.</em>

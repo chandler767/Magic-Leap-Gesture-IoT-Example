@@ -8,7 +8,7 @@ Imagine a world where you walk in a smart home, look at a smart light in the roo
     <img src="https://i.imgur.com/b8WDyY1.gif" width="300" align="right" />
 </a>
 
-This project demonstrates how to control an RGB LED or a power strip with an Arduino using Magic Leap Gestures and PubNub. Learn more about how to build your own smart home with Magic Leap and PubNub from the [tutorial](https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/).
+This project demonstrates how to control an RGB LED or a power strip with an Arduino using Magic Leap Gestures and PubNub. Learn more about how to build your own smart home with Magic Leap and PubNub from the [tutorial](https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/?devrel_gh=Magic-Leap-Gesture-IoT-Example).
 
 <a href="https://www.pubnub.com/blog/?devrel_gh=Magic-Leap-Gesture-IoT-Example">
     <img alt="PubNub Blog" src="https://i.imgur.com/aJ927CO.png" width=260 height=98/>
@@ -43,7 +43,7 @@ This project consists of three components:
     
 Read the [Getting Started with Magic Leap and Unity tutorial](https://www.pubnub.com/blog/getting-started-with-magic-leap-and-unity?devrel_gh=magic-Leap-Gesture-IoT-Example) to familiarize yourself with Unity Video Game Engine development for Magic Leap and setup your development environment.
 
-The tutorial *[Controlling Internet-connected Devices with Magic Leap Hand Gestures](https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/)* details how to run this project and correctly setup your development environment for Magic Leap and Arduino development with PubNub.
+The tutorial *[Controlling Internet-connected Devices with Magic Leap Hand Gestures](https://www.pubnub.com/blog/magic-leap-controlling-internet-connected-devices-lights-doors-with-hand-gestures/?devrel_gh=Magic-Leap-Gesture-IoT-Example)* details how to run this project and correctly setup your development environment for Magic Leap and Arduino development with PubNub.
 
 ## What's Next?
 
